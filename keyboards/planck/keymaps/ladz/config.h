@@ -47,3 +47,10 @@
 
 // Most tactile encoders have detents every 4 stages
 #define ENCODER_RESOLUTION 4
+
+// tap dance
+#define TAPPING_TERM 200
+
+// rgb lightning
+#define RGBLIGHT_ANIMATIONS
+#define RGBLED_NUM 9
